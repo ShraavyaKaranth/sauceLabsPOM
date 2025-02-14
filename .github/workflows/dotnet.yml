@@ -20,9 +20,18 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 6.0.x
+    - name: Cache NuGet packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.nuget/packages
+        key: nuget-${{ runner.os }}-${{ hashFiles('**/packages.lock.json') }}
+        restore-keys: nuget-${{ runner.os }}-
+
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore --verbosity minimal
+
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build --no-restore --verbosity minimal
+      
     - name: Test
       run: run_tests.bat
