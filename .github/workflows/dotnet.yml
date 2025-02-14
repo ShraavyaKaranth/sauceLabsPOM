@@ -34,4 +34,4 @@ jobs:
       run: dotnet build --no-restore --verbosity minimal
       
     - name: Test
-      run: run_tests.bat
+      run: C:\Users\shkar\source\repos\sauceLabs_PageObject\sauceLabs_PageObject\run_tests.bat
