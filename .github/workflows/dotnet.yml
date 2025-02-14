@@ -36,4 +36,4 @@ jobs:
     - name: Test
       run: |
         cd ${{ github.workspace }}\sauceLabs_PageObject
-        call runtests_github.bat
+        cmd /c runtests_github.bat
