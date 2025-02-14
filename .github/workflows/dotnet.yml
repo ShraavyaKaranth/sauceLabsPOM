@@ -34,4 +34,6 @@ jobs:
       run: dotnet build --no-restore --verbosity minimal
       
     - name: Test
-      run: sauceLabs_PageObject/runtests_github.bat
+      run: |
+        cd ${{ github.workspace }}\sauceLabs_PageObject
+        call runtests_github.bat
