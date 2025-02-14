@@ -1,0 +1,650 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\saucelabsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\saucelabsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\checkoutstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\checkoutstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\checkout2stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\checkout2stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\addtocartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\addtocartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\run_tests.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\run_tests.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\viewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\viewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\testorder.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\testorder.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\saucelabs_pageobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\saucelabs_pageobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\confirmationpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\confirmationpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\featurerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\featurerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\checoutoverview.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\checoutoverview.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\checkout2.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\checkout2.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\checkout.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\checkout.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\viewitem.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\viewitem.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\loginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\loginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\saucelabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\saucelabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\saucelabs.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\saucelabs.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\checkout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\checkout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\viewitemstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\viewitemstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\featurerunner.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\featurerunner.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shkar\\.nuget\\packages\\specrun.runner\\3.9.31\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\checoutoverviewstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\checoutoverviewstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\confirmationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\confirmationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\checkoutoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\checkoutoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\stepdefinitions\\confirmationpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\stepdefinitions\\confirmationpagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|c:\\users\\shkar\\source\\repos\\saucelabs_pageobject\\saucelabs_pageobject\\pages\\checkout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC54BD84-B9EB-44E1-BF08-5FBFB3031A11}|sauceLabs_PageObject\\sauceLabs_PageObject.csproj|solutionrelative:saucelabs_pageobject\\pages\\checkout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 356,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\BasePage.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:46:06.389Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sauceLabs_PageObject.csproj",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\sauceLabs_PageObject.csproj",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\sauceLabs_PageObject.csproj",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\sauceLabs_PageObject.csproj",
+              "RelativeToolTip": "sauceLabs_PageObject\\sauceLabs_PageObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T04:59:40.161Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\CheckoutStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\CheckoutStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\CheckoutStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\CheckoutStepDefinitions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:19:38.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SauceLabsStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\SauceLabsStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\SauceLabsStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\SauceLabsStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\SauceLabsStepDefinitions.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA/wEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:00:56.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout2StepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\Checkout2StepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\Checkout2StepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\Checkout2StepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\Checkout2StepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:37:17.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToCartStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\AddToCartStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\AddToCartStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\AddToCartStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\AddToCartStepDefinitions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:13:38.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:59:28.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\WebDriverManager.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\WebDriverManager.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\WebDriverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:09:28.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:51:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "run_tests.bat",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\run_tests.bat",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\run_tests.bat",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\run_tests.bat",
+              "RelativeToolTip": "sauceLabs_PageObject\\run_tests.bat",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-02-14T05:16:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "viewItem.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\viewItem.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\viewItem.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\viewItem.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\viewItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:06:00.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loginPage.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\loginPage.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\loginPage.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\loginPage.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\loginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:52:09.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\login.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\login.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\login.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T08:49:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "testOrder.txt",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\testOrder.txt",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\testOrder.txt",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\testOrder.txt",
+              "RelativeToolTip": "sauceLabs_PageObject\\testOrder.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-13T04:29:21.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmationPage.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\ConfirmationPage.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\ConfirmationPage.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\ConfirmationPage.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\ConfirmationPage.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T09:52:52.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeatureRunner.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\FeatureRunner.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\FeatureRunner.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\FeatureRunner.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\FeatureRunner.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:38:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "checoutOverview.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\checoutOverview.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\checoutOverview.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\checoutOverview.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\checoutOverview.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T09:47:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "checkout2.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\checkout2.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\checkout2.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\checkout2.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\checkout2.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T08:48:59.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "checkout.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\checkout.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\checkout.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\checkout.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\checkout.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T07:19:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "addToCart.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\addToCart.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\addToCart.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\addToCart.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\addToCart.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T07:14:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "viewItem.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\viewItem.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\viewItem.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\viewItem.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\viewItem.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T07:13:08.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "loginPage.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\loginPage.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\loginPage.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\loginPage.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\loginPage.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T04:39:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sauceLabs.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\sauceLabs.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\sauceLabs.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\sauceLabs.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\sauceLabs.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwGQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:00:08.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "sauceLabs.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\sauceLabs.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\sauceLabs.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\sauceLabs.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\sauceLabs.feature",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-07T05:07:16.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "checkout1.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\checkout1.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\checkout1.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\checkout1.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\checkout1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:19:51.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Utils\\config.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Utils\\config.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Utils\\config.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Utils\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:02:17.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ViewItemStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\ViewItemStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\ViewItemStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\ViewItemStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\ViewItemStepDefinitions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:05:38.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "addToCart.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\addToCart.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\addToCart.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\addToCart.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\addToCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:11:32.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FeatureRunner.exe",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\FeatureRunner.exe",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\FeatureRunner.exe",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\FeatureRunner.exe",
+              "RelativeToolTip": "sauceLabs_PageObject\\FeatureRunner.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2025-02-13T11:38:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Features\\Calculator.feature",
+              "RelativeToolTip": "sauceLabs_PageObject\\Features\\Calculator.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-07T05:14:47.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:50:53.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "checkoutOverview.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\checkoutOverview.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\checkoutOverview.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\checkoutOverview.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\checkoutOverview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:45:23.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\shkar\\.nuget\\packages\\specrun.runner\\3.9.31\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\specrun.runner\\3.9.31\\readme.txt",
+              "ToolTip": "C:\\Users\\shkar\\.nuget\\packages\\specrun.runner\\3.9.31\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\specrun.runner\\3.9.31\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-13T05:21:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "confirmationPage.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\confirmationPage.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\confirmationPage.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\confirmationPage.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\confirmationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:55:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChecoutOverviewStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\ChecoutOverviewStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\ChecoutOverviewStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\ChecoutOverviewStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\ChecoutOverviewStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:48:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ConfirmationPageStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\ConfirmationPageStepDefinitions.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\StepDefinitions\\ConfirmationPageStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\StepDefinitions\\ConfirmationPageStepDefinitions.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\StepDefinitions\\ConfirmationPageStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:54:47.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "checkout2.cs",
+              "DocumentMoniker": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\checkout2.cs",
+              "RelativeDocumentMoniker": "sauceLabs_PageObject\\Pages\\checkout2.cs",
+              "ToolTip": "C:\\Users\\shkar\\source\\repos\\sauceLabs_PageObject\\sauceLabs_PageObject\\Pages\\checkout2.cs",
+              "RelativeToolTip": "sauceLabs_PageObject\\Pages\\checkout2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:40:53.638Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
