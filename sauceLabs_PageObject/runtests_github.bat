@@ -1,13 +1,16 @@
 @echo off
-cd /d "%~dp0"
+cd /d "%~dp0"  REM Navigate to the script's directory
+
+:: Find Chrome Path
+for /f "delims=" %%i in ('where chrome') do set "CHROME_PATH=%%i"
 
 :: Open Chrome in debugging mode
-start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\ChromeDebug"
+start "" "%CHROME_PATH%" --remote-debugging-port=9222 --user-data-dir="%TEMP%\ChromeDebug"
 
 :: Wait for Chrome to start
-choice /T 5 /D Y /N >nul
+timeout /t 5 >nul
 
-:: Run all tests sequentially
+:: Run tests
 call :RunTest "LoginPage"
 call :RunTest "ViewItem"
 call :RunTest "AddToCart"
@@ -17,7 +20,7 @@ call :RunTest "CheckoutOverview"
 call :RunTest "ConfirmationPage"
 
 :: Wait before closing Chrome
-choice /T 5 /D Y /N >nul
+timeout /t 5 >nul
 
 :: Close Chrome Debugging instance
 echo Closing Chrome...
@@ -26,9 +29,7 @@ taskkill /F /IM chromedriver.exe >nul 2>&1
 
 exit /b
 
-:: Function Definition
 :RunTest
 echo Running TestCategory=%~1...
-cmd /c "dotnet test --filter \"(TestCategory=%~1)\""
-choice /T 10 /D Y /N >nul
+start cmd /c "dotnet test --filter \"(TestCategory=%~1)\""
 exit /b
